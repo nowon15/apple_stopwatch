@@ -1,0 +1,14 @@
+C:\WinForms_Workspace\AppleStopwatch\AppleStopwatch\bin\Debug\AppleStopwatch.exe.config
+C:\WinForms_Workspace\AppleStopwatch\AppleStopwatch\bin\Debug\AppleStopwatch.exe
+C:\WinForms_Workspace\AppleStopwatch\AppleStopwatch\bin\Debug\AppleStopwatch.pdb
+C:\WinForms_Workspace\AppleStopwatch\AppleStopwatch\obj\Debug\AppleStopwatch.csproj.AssemblyReference.cache
+C:\WinForms_Workspace\AppleStopwatch\AppleStopwatch\obj\Debug\AppleStopwatch.Form1.resources
+C:\WinForms_Workspace\AppleStopwatch\AppleStopwatch\obj\Debug\AppleStopwatch.Properties.Resources.resources
+C:\WinForms_Workspace\AppleStopwatch\AppleStopwatch\obj\Debug\AppleStopwatch.csproj.GenerateResource.cache
+C:\WinForms_Workspace\AppleStopwatch\AppleStopwatch\obj\Debug\AppleStopwatch.csproj.CoreCompileInputs.cache
+C:\WinForms_Workspace\AppleStopwatch\AppleStopwatch\obj\Debug\AppleStopwatch.exe
+C:\WinForms_Workspace\AppleStopwatch\AppleStopwatch\obj\Debug\AppleStopwatch.pdb
+C:\WinForms_Workspace\AppleStopwatch\AppleStopwatch\obj\Debug\AppleStopwatch.ucLapLabel.resources
+C:\WinForms_Workspace\AppleStopwatch\AppleStopwatch\bin\Debug\TimeLib.dll
+C:\WinForms_Workspace\AppleStopwatch\AppleStopwatch\bin\Debug\TimeLib.pdb
+C:\WinForms_Workspace\AppleStopwatch\AppleStopwatch\obj\Debug\AppleStopwatch.csproj.CopyComplete

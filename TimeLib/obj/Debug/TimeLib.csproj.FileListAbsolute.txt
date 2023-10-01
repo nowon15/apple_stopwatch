@@ -1,0 +1,6 @@
+C:\WinForms_Workspace\AppleStopwatch\TimeLib\bin\Debug\TimeLib.dll
+C:\WinForms_Workspace\AppleStopwatch\TimeLib\bin\Debug\TimeLib.pdb
+C:\WinForms_Workspace\AppleStopwatch\TimeLib\obj\Debug\TimeLib.csproj.AssemblyReference.cache
+C:\WinForms_Workspace\AppleStopwatch\TimeLib\obj\Debug\TimeLib.csproj.CoreCompileInputs.cache
+C:\WinForms_Workspace\AppleStopwatch\TimeLib\obj\Debug\TimeLib.dll
+C:\WinForms_Workspace\AppleStopwatch\TimeLib\obj\Debug\TimeLib.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleStopwatch", "AppleStopwatch\AppleStopwatch.csproj", "{C02426F5-FE2C-4733-9855-71697A1ECE8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeLib", "TimeLib\TimeLib.csproj", "{9D36B088-FC58-4A3C-9B4D-7D894974F03C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C02426F5-FE2C-4733-9855-71697A1ECE8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02426F5-FE2C-4733-9855-71697A1ECE8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02426F5-FE2C-4733-9855-71697A1ECE8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02426F5-FE2C-4733-9855-71697A1ECE8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D36B088-FC58-4A3C-9B4D-7D894974F03C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D36B088-FC58-4A3C-9B4D-7D894974F03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D36B088-FC58-4A3C-9B4D-7D894974F03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D36B088-FC58-4A3C-9B4D-7D894974F03C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14775E0A-6C69-4AA6-81F2-F85AA4107360}
+	EndGlobalSection
+EndGlobal
